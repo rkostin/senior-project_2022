@@ -26,13 +26,16 @@ This list is for your information only, to help remind everyone about the major 
 - any details RE what kind of attacks/concerns
 
 # OTHER NOTES AND REMINDERS
+Kostin's advice
+
 - the game is a 100% in-person, physical board game (no online play)
 
 - tournaments are designed around teams playing around a table and spectators watching; we will not be involved with the tournament logistics, only the website that supports the tournament before and during the event
 
 - Be aware that Juli Klie has a deep understanding of networks and computer technology; don't hesitate to use technical terms with her, but still don't expect her to give you numbers or specifics about anything in this initial meeting; same with Dave Patric.
 
-# TOPICS TO AVOID (Kostin's advice)
+## TOPICS TO AVOID
+
 - do not ask about or suggest anything that wasn't specifically noted in the project overview (time with the stakeholders is at a premium; we need to focus on what they asked for first)
 
 - do not ask about mobile device compatibility; it's assumed that all users and staff will want to access everything via any device at any time (that's just standard these days)
@@ -41,8 +44,7 @@ This list is for your information only, to help remind everyone about the major 
 
 - Do not ask about the stakeholders' experience with games or tournaments; assume they have it; also assume *you* will be doing extensive research on board games, board game tournaments, their popularity, and history with security breeches
 
-# AND LASTLY...
-Kostin's observations
+## AND LASTLY...
 
 - we do not have to learn everything all at once during this one meeting; we will be in communication with the stakeholders all semester (and next semester too), so focus on what was written in the project overview and ask for clarifications on things that were stated in it only
 
