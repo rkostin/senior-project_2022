@@ -26,7 +26,7 @@ This list is for your information only, to help remind everyone about the major 
 - any details RE what kind of attacks/concerns
 
 # OTHER NOTES AND REMINDERS
-Kostin's advice
+Kostin's notes and advice
 
 - the game is a 100% in-person, physical board game (no online play)
 
