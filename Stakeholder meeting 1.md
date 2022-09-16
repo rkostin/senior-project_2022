@@ -33,6 +33,8 @@ Kostin's notes and advice
 - tournaments are designed around teams playing around a table and spectators watching; we will not be involved with the tournament logistics, only the website that supports the tournament before and during the event
 
 - Be aware that Juli Klie has a deep understanding of networks and computer technology; don't hesitate to use technical terms with her, but still don't expect her to give you numbers or specifics about anything in this initial meeting; same with Dave Patric.
+  - Also, Juli told me, given her technical background and experience, she plans to *drop hints* about what's important and what you need to consider, whether you ask her about those things or not! So listen carefully and **take notes about everything she says**.
+
 
 ## TOPICS TO AVOID
 
