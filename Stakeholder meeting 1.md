@@ -46,7 +46,7 @@ Kostin's notes and advice
 
 ## AND LASTLY...
 
-- we do not have to learn everything all at once during this one meeting; we will be in communication with the stakeholders all semester (and next semester too), so focus on what was written in the project overview and ask for clarifications on things that were stated in it only
+- **we do not have to learn everything all at once during this one meeting**; we will be in communication with the stakeholders all semester (and next semester too), so focus on what was written in the project overview and ask for clarifications on things that were stated in it only
 
 - we've been very focused on the playing of the game, and the tournament operation at the expense of thinking about the marketing and promotion aspects of the project; that's probably a mistake; I know that Juli is very interested in the PROMOTION of the game (think: brochure-ware) and how it intersects with sales of the game and the attendance at the tournament
 
